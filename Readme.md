@@ -69,5 +69,5 @@ Logo: The app displays a logo (logo.ico) in the sidebar. It can be customized by
 
 # License
 
-This is a proprietary licensed application developed for Whistle Stop Capital.
+This is a proprietary licensed application developed for Whistle Stop Capital/As you Sow.
 
