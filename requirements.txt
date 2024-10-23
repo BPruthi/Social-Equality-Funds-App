@@ -16,3 +16,4 @@ openpyxl
 xlsxwriter
 langchain-chroma
 # pysqlite3-binary
+pycryptodome==3.15.0
